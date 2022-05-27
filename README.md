@@ -24,3 +24,7 @@ Metrics | Basic Model | Feature Extractor | Fine-tune Mode |
 F1 score in traning data | 64% | 77% | 87.4% 
 Test Accuracy | 64.4% | 79.7% | 88% 
 
+## Authors
+Feruz Elmay
+Biyanu Zerom
+Miguel Ramirez

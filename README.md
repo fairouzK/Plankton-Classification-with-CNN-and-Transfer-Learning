@@ -4,9 +4,9 @@
 The dataset contains images of phytoplankton species of different sizes and shapes.
 When placed in their respective species folder, the dataset has 19 classes.
 Originally the dataset had around 304 images.
-Images from WHOI Plankton dataset were added to increase size of the data set.
-The images per class range from as low as 3 to as high as 182 causing class imbalance
-The data was divided into training, validation and test sets in the ratio 80-10-10.  
+Images from WHOI Plankton dataset, and google were added to increase the size of the data set. 
+The images per class range from as low as 3 to as high as 182 causing class imbalance.
+The data was divided into training, validation, and test sets in the ratio 80-10-10.  
 It can be downloaded from <a href = "https://www.kaggle.com/datasets/feruzz/plankton-dataset"> Kaggle. </a>
 
 
